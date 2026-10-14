@@ -57,11 +57,3 @@ Test your production workloads on our **Pro Tier** free for 7 days — flat capa
 
 ---
 
-### 🧪 Live CLI Latency Check
-
-You can instantly benchmark ping response to our edge clusters directly from your terminal:
-
-```bash
-# Check ping / latency response
-curl -s [https://rpc.triport.io/v1/ping](https://rpc.triport.io/v1/ping)  <img src="https://img.shields.io/badge/Base-0052FF?style=flat-square&logo=coinbase&logoColor=white" alt="Base" />
-  <img src="
